@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p>
-  <img src="https://count.getloli.com/get/@:wolffy1998" alt=":wolffy1998" />
-  <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
-</p>
-
-
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolffy1998&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
