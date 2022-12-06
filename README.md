@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wolffy1998&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](http://antzuhl.cn:4000/get/@littleTreeme)
+ <p>
+  <img src="https://count.getloli.com/get/@:muzihuaner" alt=":muzihuaner" />
+  <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
+</p>
