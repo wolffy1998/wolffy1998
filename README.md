@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolffy1998&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wolffy1998&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  <p>
-  <img src="https://count.getloli.com/get/@:muzihuaner" alt=":muzihuaner" />
+  <img src="https://count.getloli.com/get/@:wolffy1998" alt=":wolffy1998" />
   <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
 </p>
