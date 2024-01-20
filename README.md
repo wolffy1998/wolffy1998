@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![wolffy1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolffy1998)
+![wolffy1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolffy1998)
 
- ![wolffy1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wolffy1998&theme=github-compact)
+![wolffy1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wolffy1998&theme=github-compact)
